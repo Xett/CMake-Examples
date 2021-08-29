@@ -1,0 +1,3 @@
+/* The configured options and settings. */
+#define Base_VERSION_MAJOR @Base_VERSION_MAJOR@
+#define Base_VERSION_MINOR @Base_VERSION_MINOR@
